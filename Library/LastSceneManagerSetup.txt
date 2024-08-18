@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/_Main/Scenes/Blockout/Sc_Blockout_Animation.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\LEGION\\kart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|c:\\users\\legion\\kart\\assets\\_renk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_renk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\_main\\scripts\\gameplay\\cardsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\cardsystem\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|c:\\users\\legion\\kart\\assets\\yuva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\yuva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|c:\\users\\legion\\kart\\assets\\_main\\scripts\\gameplay\\slot\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\slot\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\nesnedagitici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\nesnedagitici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\_main\\scripts\\gameplay\\cardsystem\\cardcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\cardsystem\\cardcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\_main\\scripts\\gameplay\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\player\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|c:\\users\\legion\\kart\\assets\\_main\\scripts\\gameplay\\slot\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\slot\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\_main\\scripts\\gameplay\\cardsystem\\cardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\cardsystem\\cardspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|C:\\Users\\LEGION\\kart\\assets\\_main\\scripts\\gameplay\\cardsystem\\cardplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE83FEC9-C0A5-D7D4-3370-9F10998791D9}|Assembly-CSharp.csproj|solutionrelative:assets\\_main\\scripts\\gameplay\\cardsystem\\cardplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Yuva.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\Yuva.cs",
-              "RelativeDocumentMoniker": "Assets\\Yuva.cs",
-              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\Yuva.cs",
-              "RelativeToolTip": "Assets\\Yuva.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "CardPlace.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardPlace.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardPlace.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardPlace.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T18:44:19.811Z",
+              "WhenOpened": "2024-08-13T09:27:11.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardSpawner.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardSpawner.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:27:22.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Slot\\Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\Slot\\Slot.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Slot\\Slot.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\Slot\\Slot.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:31:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Player\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\Player\\PlayerInput.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Player\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\Player\\PlayerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:30:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Slot\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\Slot\\SlotManager.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\Slot\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\Slot\\SlotManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:31:32.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NesneDagitici.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\NesneDagitici.cs",
-              "RelativeDocumentMoniker": "Assets\\NesneDagitici.cs",
-              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\NesneDagitici.cs",
-              "RelativeToolTip": "Assets\\NesneDagitici.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CardColor.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardColor.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardColor.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardColor.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\CardColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:41:24.82Z",
+              "WhenOpened": "2024-08-10T10:31:13.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_renk.cs",
-              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_renk.cs",
-              "RelativeDocumentMoniker": "Assets\\_renk.cs",
-              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_renk.cs",
-              "RelativeToolTip": "Assets\\_renk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\Card.cs",
+              "ToolTip": "C:\\Users\\LEGION\\kart\\Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\Card.cs",
+              "RelativeToolTip": "Assets\\_Main\\Scripts\\Gameplay\\CardSystem\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T06:45:05.911Z",
+              "WhenOpened": "2024-08-10T10:31:10.217Z",
               "EditorCaption": ""
             }
           ]
